@@ -1,0 +1,9 @@
+#Q
+What is the purpose of the subnet mask in conjunction with an IP address? \n\
+           A) to uniquely identify a host on a network \n\
+           B) to identify whether the address is public or private \n\
+           C) to determine the subnet to which the host belongs \n\
+           D) to mask the IP address to outsiders \n\
+#A
+c
+#END
