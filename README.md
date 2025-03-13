@@ -1,7 +1,6 @@
 # xanki
-![image](https://github.com/user-attachments/assets/2c6b972a-ae62-4ffe-ab20-9facc431fd02)
-
 xanki is a simple, terminal-based flashcard program inspired by Anki. I wanted a lightweight alternative for the terminal and used it as an excuse to code something in Python.
+![image](https://github.com/user-attachments/assets/2c6b972a-ae62-4ffe-ab20-9facc431fd02)
 
 ## Flashcard Format
 xanki reads a structured `.txt` file where each flashcard follows this format:
