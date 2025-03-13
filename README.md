@@ -17,17 +17,4 @@ c
 ```
 - Each flashcard starts with `#Q`, followed by the question.
 - The answer is placed below `#A`.
-- The flashcard is terminated with `#END`.
-
-
-`$ python3 xanki.py -f example.txt` output:
-```
-What is the purpose of the subnet mask in conjunction with an IP address?
-A) to uniquely identify a host on a network
-B) to identify whether the address is public or private
-C) to determine the subnet to which the host belongs
-D) to mask the IP address to outsiders
-
-:
-```
-
+- The flashcard is terminated with `#END`
